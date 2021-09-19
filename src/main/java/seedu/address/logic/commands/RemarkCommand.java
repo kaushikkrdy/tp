@@ -12,7 +12,7 @@ import seedu.address.model.Model;
 public class RemarkCommand extends Command {
 
     public static final String COMMAND_WORD = "remark";
-    
+
     public static final String MESSAGE_USAGE = COMMAND_WORD
             + ": Edits the remark of the person identified "
             + "by the index number used in the last person listing. "
