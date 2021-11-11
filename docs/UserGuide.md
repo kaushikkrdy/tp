@@ -18,6 +18,8 @@ This product will make recruiters’ lives easier through categorisation and fil
 
 ![Ui](images/Ui.png)
 
+<div style="page-break-after: always"></div>
+
 ### Table of Contents
 * [About RecruitIn](#about-recruitin)
 * [About this guide](#about-this-guide)
@@ -44,6 +46,7 @@ This product will make recruiters’ lives easier through categorisation and fil
 * [FAQ](#faq)
 * [Command summary](#command-summary)
 
+<div style="page-break-after: always"></div>
 
 ### About this guide
 [Table of contents](#table-of-contents)
@@ -66,11 +69,7 @@ This guide aims to help users get familiar with using RecruitIn's features.
 
 </div>
 
-<br>
-<br>
-<br>
-<br>
-
+<div style="page-break-after: always"></div>
 
 ### Glossary
 [Table of contents](#table-of-contents)
@@ -81,6 +80,8 @@ This guide aims to help users get familiar with using RecruitIn's features.
 | **Command** | **Commands** are user text inputs that executes certain features of RecruitIn. |
 | **Prefix** | A **Prefix** is a fixed text input that indicates an applicant's detail.<br><br>For instance, `n/` is a Prefix that indicates an applicant's name.<br><br>It is used in commands to differentiate user inputs for different applicant details. |
 | **Parameter** | A **Parameter** is a user text input that usually follows after a **Prefix**.<br><br>For instance, in `n/John`, `John` is a **Parameter** of **Prefix** `n/`.<br><br>In some cases, it does not have to follow a **Prefix**.<br><br>For instance, in `delete 1`, `1` is a **Parameter** of the `delete` command. |
+
+<div style="page-break-after: always"></div>
 
 ### Basic Command Format
 [Table of contents](#table-of-contents)
@@ -98,6 +99,8 @@ note of so that you may better understand our feature descriptions.
   e.g. `delete INDEX...` can be used as `delete 1` (i.e. `INDEX` repeated 0 times), `delete 1 2`, `delete 2 4 3` etc.
 
 --------------------------------------------------------------------------------------------------------------------
+
+<div style="page-break-after: always"></div>
 
 ## Quick start
 [Table of contents](#table-of-contents)
@@ -188,6 +191,8 @@ Scroll down to the bottom and click on `recruitIn.jar`.
 
 --------------------------------------------------------------------------------------------------------------------
 
+<div style="page-break-after: always"></div>
+
 ## Features
 [Table of contents](#table-of-contents)
 
@@ -235,6 +240,8 @@ Scroll down to the bottom and click on `recruitIn.jar`.
 * You are advised to not edit the `preferences.json` file unless you have a clear purpose.
 
 </div>
+
+<div style="page-break-after: always"></div>
 
 ### Viewing help : `help`
 [Table of contents](#table-of-contents)
