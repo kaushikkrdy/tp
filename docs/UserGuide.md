@@ -18,8 +18,6 @@ This product will make recruiters’ lives easier through categorisation and fil
 
 ![Ui](images/Ui.png)
 
-<div style="page-break-after: always;"></div>
-
 ### Table of Contents
 * [About RecruitIn](#about-recruitin)
 * [About this guide](#about-this-guide)
@@ -46,7 +44,6 @@ This product will make recruiters’ lives easier through categorisation and fil
 * [FAQ](#faq)
 * [Command summary](#command-summary)
 
-<div style="page-break-after: always;"></div>
 
 ### About this guide
 [Table of contents](#table-of-contents)
