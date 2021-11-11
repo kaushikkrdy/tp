@@ -720,7 +720,7 @@ It is advised that you be careful when handling the data file directly!
     * For example:
         * TAG parameters such as `friends` and `colleagues` are allowed.
         * TAG parameters such as `best friends`, `old colleagues` and `seni@r` are not allowed.
-    
+    <div style="page-break-after: always"></div>
 * ##### INTERVIEW `i/`
     * An INTERVIEW parameter should be a legitimate date and follow the DateTime format `yyyy-M-d, H:m`. 
       * The format for Year is strictly 4 digits while others (i.e. Month, Day, Hours, Minutes) can be either 1 or 2 digits.
