@@ -234,8 +234,6 @@ Scroll down to the bottom and click on `recruitIn.jar`.
 
 </div>
 
-<div style="page-break-after: always"></div>
-
 ### Viewing help : `help`
 [Table of contents](#table-of-contents)
 
