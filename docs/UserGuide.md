@@ -727,7 +727,6 @@ It is advised that you be careful when handling the data file directly!
     * For example:
         * INTERVIEW parameters such as `2021-08-09, 13:00` and `2022-1-3, 3:00` are acceptable.
         * INTERVIEW parameters such as `morning`, `2021.10.21`, `2021-10-22 13:00` and `2021-02-30, 10:30` (not an existing date) are not acceptable.
-    <div style="page-break-after: always"></div>
 
 * ##### NOTES `nt/`
     * A NOTES parameter can contain any character, number or symbol as there are no restrictions in place.
