@@ -417,6 +417,8 @@ After: ![FindAfter](images/ug-features/FindAfter.png)
 * `find n/John Mary t/friend colleague`
 * `find n/Bob p/87654321 e/bob@gmail.com r/Software Engineering et/Full time s/4000 l/High School y/2 nt/has the credentials d/Not Done`
 
+<div style="page-break-after: always"></div>
+
 <div markdown="block" class="alert alert-success">
 **:information_source: Prefix parameters for `find` command must follow the following parameter specifications:**<br>
 
@@ -440,6 +442,8 @@ After: ![FindAfter](images/ug-features/FindAfter.png)
 | DONE | `d/` | [**done**](#done-d) |
 
 </div>
+
+<div style="page-break-after: always"></div>
         
 ### Filtering interviews : `filter_interview`
 [Table of contents](#table-of-contents)
@@ -593,6 +597,8 @@ You do not need to manually save data with any command. The saved data also auto
 
 RecruitIn saves the applicant data as a String in `/data/applicants.json`.
 If you are advanced enough, you are welcome to update data directly by editing this data file.
+
+<div style="page-break-after: always"></div>
 
 Example of the format of how data is saved for an applicant:
 
