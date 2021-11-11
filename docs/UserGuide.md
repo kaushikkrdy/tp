@@ -562,6 +562,7 @@ Before: ![images](images/ug-features/DeleteMarkedBefore.png)
 
 After: ![images](images/ug-features/DeleteMarkedAfter.png)
 
+<div style="page-break-after: always"></div>
 
 ### Clearing all data : `clear`
 [Table of contents](#table-of-contents)
@@ -620,7 +621,7 @@ If your changes to the data file makes the data format invalid, RecruitIn will r
 It is advised that you be careful when handling the data file directly!
 </div>
 
---------------------------------------------------------------------------------------------------------------------
+<div style="page-break-after: always"></div>
 
 ## Prefix Parameter Specifications ***{Advanced}***
 
@@ -717,6 +718,8 @@ It is advised that you be careful when handling the data file directly!
         * NOTES parameters such as `This candidate is good!` and `@Applicant123 is suitab13 for th3 job!` are acceptable.
 
 </div>
+
+<div style="page-break-after: always"></div>
 
 ### Find Parameters
 [Table of contents](#table-of-contents)
@@ -826,7 +829,7 @@ For example, if your input is `find n/Alex Bernice`, `Alex` and `Bernice` are yo
 
 </div>
 
---------------------------------------------------------------------------------------------------------------------
+<div style="page-break-after: always"></div>
 
 ## FAQ
 [Table of contents](#table-of-contents)
@@ -855,7 +858,7 @@ If you do not know how to open up your terminal, refer to the next question belo
 * **Linux**:
   1. Press `ctrl + alt + T` on your keyboard.
 
---------------------------------------------------------------------------------------------------------------------
+<div style="page-break-after: always"></div>
 
 ## Command summary
 [Table of contents](#table-of-contents)
