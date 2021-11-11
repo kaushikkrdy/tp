@@ -533,8 +533,6 @@ After: ![images](images/ug-features/MarkAfter.png)
 * After using the command `list`, `mark 2 4 6` marks the 2nd, 4th and 6th applicant listed in RecruitIn as `Done`.
 * After using the command `find n/John`, `mark 1` marks the 1st applicant listed in RecruitIn's results of the `find` command as `Done`.
 
-<div style="page-break-after: always"></div>
-
 ### Unmarking an applicant : `unmark`
 [Table of contents](#table-of-contents)
 
@@ -670,6 +668,7 @@ It is advised that you be careful when handling the data file directly!
     * **Local part specifications**:
         * Your local part must **start with** and **end with** an alphanumeric character.
         * You can separate alphanumeric characters with any one of these characters: `+_.-`. (i.e. `John-a-bc`)
+    <br>
     * **Domain part specifications**:
         * Your domain part must contain **at least 2** domain labels, with each domain label separated by a `.`.
         * You must start and end each domain label with an alphanumeric character.
