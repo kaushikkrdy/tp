@@ -291,7 +291,7 @@ After: ![images](images/ug-features/AddAfter.png)
 ### Editing an applicant : `edit`
 [Table of contents](#table-of-contents)
 
-The `edit` command edits an applicant's with specified index in RecruitIn.
+The `edit` command edits an applicant's data with specified index in RecruitIn.
 
 Format: `edit INDEX [n/NAME] [p/PHONE_NUMBER] [e/EMAIL_ADDRESS] [r/ROLE] [et/EMPLOYMENT_TYPE]
  [s/EXPECTED_SALARY] [l/LEVEL_OF_EDUCATION] [y/YEARS_OF_EXPERIENCE] [t/TAG] [i/INTERVIEW] [nt/NOTES]`
