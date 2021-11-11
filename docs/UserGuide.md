@@ -561,8 +561,6 @@ After: ![images](images/ug-features/UnmarkAfter.png)
 * After using the command `list`, `unmark 2 4 6` unmarks the 2nd, 4th and 6th applicant listed in RecruitIn to `Not Done`.
 * After using the command `find n/John`, `unmark 1` unmarks the 1st applicant listed in RecruitIn's results of the `find` command to `Not Done`.
 
-<div style="page-break-after: always"></div>
-
 ### Deleting marked applicants : `delete_marked`
 [Table of contents](#table-of-contents)
 
