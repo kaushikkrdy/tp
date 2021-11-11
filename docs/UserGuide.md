@@ -98,6 +98,8 @@ note of so that you may better understand our feature descriptions.
 * Items with `...` after them can be repeated multiple times, including zero times.<br>
   e.g. `delete INDEX...` can be used as `delete 1` (i.e. `INDEX` repeated 0 times), `delete 1 2`, `delete 2 4 3` etc.
 
+<div style="page-break-after: always"></div>
+
 ## Quick start
 [Table of contents](#table-of-contents)
 
@@ -241,6 +243,8 @@ Scroll down to the bottom and click on `recruitIn.jar`.
 
 </div>
 
+<div style="page-break-after: always"></div>
+
 ### Viewing help : `help`
 [Table of contents](#table-of-contents)
 
@@ -250,6 +254,8 @@ Alternatively, you can click on the Help button to access the help page as well.
 ![help message](images/ug-features/helpMessage.png)
 
 Format: `help`
+
+<div style="page-break-after: always"></div>
 
 ### Adding an applicant: `add`
 [Table of contents](#table-of-contents)
@@ -297,6 +303,8 @@ After: ![images](images/ug-features/AddAfter.png)
 | NOTES | `nt/` | [**notes**](#notes-nt) |
 
 </div>
+
+<div style="page-break-after: always"></div>
 
 ### Editing an applicant : `edit`
 [Table of contents](#table-of-contents)
@@ -350,6 +358,8 @@ After: ![images](images/ug-features/EditAfter.png)
 
 </div>
 
+<div style="page-break-after: always"></div>
+
 ### Listing all applicants : `list`
 [Table of contents](#table-of-contents)
 
@@ -357,6 +367,7 @@ The `list` command shows a list of all applicants in RecruitIn.
 
 Format: `list`
 
+<div style="page-break-after: always"></div>
 
 ### Deleting an applicant : `delete`
 [Table of contents](#table-of-contents)
@@ -382,6 +393,7 @@ Examples:
 Before: ![DeleteBefore](images/ug-features/DeleteBefore.png)
 After: ![DeleteAfter](images/ug-features/DeleteAfter.png)
 
+<div style="page-break-after: always"></div>
 
 ### Finding an applicant : `find`
 [Table of contents](#table-of-contents)
@@ -472,6 +484,7 @@ Examples:
 * If you type `filter_interview future` or 
  `filter_interview fUTURE` in the command box, you are able to see applicants with interviews that are after [29th October 2021, 1600].
   
+<div style="page-break-after: always"></div>
 
 ### Showing search terms : `show`
 [Table of contents](#table-of-contents)
@@ -492,7 +505,7 @@ Examples:
 Before: ![ShowBefore](images/ug-features/ShowBefore.png)
 After: ![ShowAfter](images/ug-features/ShowAfter.png)
 
-
+<div style="page-break-after: always"></div>
 
 ### Marking an applicant : `mark`
 [Table of contents](#table-of-contents)
@@ -522,6 +535,7 @@ After: ![images](images/ug-features/MarkAfter.png)
 * After using the command `list`, `mark 2 4 6` marks the 2nd, 4th and 6th applicant listed in RecruitIn as `Done`.
 * After using the command `find n/John`, `mark 1` marks the 1st applicant listed in RecruitIn's results of the `find` command as `Done`.
 
+<div style="page-break-after: always"></div>
 
 ### Unmarking an applicant : `unmark`
 [Table of contents](#table-of-contents)
@@ -551,6 +565,7 @@ After: ![images](images/ug-features/UnmarkAfter.png)
 * After using the command `list`, `unmark 2 4 6` unmarks the 2nd, 4th and 6th applicant listed in RecruitIn to `Not Done`.
 * After using the command `find n/John`, `unmark 1` unmarks the 1st applicant listed in RecruitIn's results of the `find` command to `Not Done`.
 
+<div style="page-break-after: always"></div>
 
 ### Deleting marked applicants : `delete_marked`
 [Table of contents](#table-of-contents)
@@ -575,6 +590,8 @@ The `clear` command deletes all applicants in RecruitIn.
 
 Format: `clear`
 
+<div style="page-break-after: always"></div>
+
 ### Exiting the program : `exit`
 [Table of contents](#table-of-contents)
 
@@ -585,6 +602,7 @@ Format: `exit`
 You can also exit RecruitIn by clicking on the 'X' button found on the top right side of the app.
 Alternatively, you can also click on the 'File' button on the upper left of the app, before clicking the pop-up 'Exit' button. 
 
+<div style="page-break-after: always"></div>
 
 ### Saving the data
 [Table of contents](#table-of-contents)
