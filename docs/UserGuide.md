@@ -231,6 +231,10 @@ Scroll down to the bottom and click on `recruitIn.jar`.
 
 <div markdown="block" class="alert alert-danger">
 
+<br>
+<br>
+<br>
+
 **:exclamation: Caution:**<br>
 
 * You are advised to not edit the `preferences.json` file unless you have a clear purpose.
