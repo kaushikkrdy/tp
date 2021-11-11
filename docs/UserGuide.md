@@ -67,6 +67,12 @@ This guide aims to help users get familiar with using RecruitIn's features.
 </div>
 
 
+
+
+
+
+
+
 ### Glossary
 [Table of contents](#table-of-contents)
 
