@@ -67,6 +67,8 @@ This guide aims to help users get familiar with using RecruitIn's features.
 * If you still wish to skip directly to the feature descriptions, or if you need a refresher on the important terminologies and text formatting used
   in this user guide, you may visit [Basic Command Format](#basic-command-format).
 
+<div>
+
 <div style="page-break-after: always;"></div>
 
 ### Glossary
@@ -97,6 +99,8 @@ note of so that you may better understand our feature descriptions.
   e.g. `delete INDEX...` can be used as `delete 1` (i.e. `INDEX` repeated 0 times), `delete 1 2`, `delete 2 4 3` etc.
 
 --------------------------------------------------------------------------------------------------------------------
+
+
 <div style="page-break-after: always;"></div>
 
 ## Quick start
