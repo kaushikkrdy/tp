@@ -510,7 +510,9 @@ Before: ![ShowBefore](images/ug-features/ShowBefore.png)
 After: ![ShowAfter](images/ug-features/ShowAfter.png)
 
 <div style="page-break-after: always"></div>
-
+<br>
+<br>
+<br>
 ### Marking an applicant : `mark`
 [Table of contents](#table-of-contents)
 
@@ -594,8 +596,6 @@ The `clear` command deletes all applicants in RecruitIn.
 
 Format: `clear`
 
-<div style="page-break-after: always"></div>
-
 ### Exiting the program : `exit`
 [Table of contents](#table-of-contents)
 
@@ -605,8 +605,6 @@ Format: `exit`
 
 You can also exit RecruitIn by clicking on the 'X' button found on the top right side of the app.
 Alternatively, you can also click on the 'File' button on the upper left of the app, before clicking the pop-up 'Exit' button. 
-
-<div style="page-break-after: always"></div>
 
 ### Saving the data
 [Table of contents](#table-of-contents)
