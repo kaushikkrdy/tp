@@ -243,8 +243,6 @@ Scroll down to the bottom and click on `recruitIn.jar`.
 
 </div>
 
-<div style="page-break-after: always"></div>
-
 ### Viewing help : `help`
 [Table of contents](#table-of-contents)
 
@@ -370,8 +368,6 @@ After: ![images](images/ug-features/EditAfter.png)
 The `list` command shows a list of all applicants in RecruitIn.
 
 Format: `list`
-
-<div style="page-break-after: always"></div>
 
 ### Deleting an applicant : `delete`
 [Table of contents](#table-of-contents)
