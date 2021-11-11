@@ -281,6 +281,8 @@ Before: ![images](images/ug-features/AddBefore.png)
 
 After: ![images](images/ug-features/AddAfter.png)
 
+<div style="page-break-after: always"></div>
+
 <div markdown="block" class="alert alert-secondary">
 **:information_source: Prefix parameters for `add` command must follow the following parameter specifications:**<br>
 
@@ -334,6 +336,8 @@ Examples:
 Before: ![images](images/ug-features/EditBefore.png)
 
 After: ![images](images/ug-features/EditAfter.png)
+
+<div style="page-break-after: always"></div>
 
 <div markdown="block" class="alert alert-secondary">
 **:information_source: Prefix parameters for `edit` command must follow the same parameter specifications as `add` command:**<br>
@@ -615,8 +619,6 @@ You do not need to manually save data with any command. The saved data also auto
 
 RecruitIn saves the applicant data as a String in `/data/applicants.json`.
 If you are advanced enough, you are welcome to update data directly by editing this data file.
-
-<div style="page-break-after: always"></div>
 
 Example of the format of how data is saved for an applicant:
 
