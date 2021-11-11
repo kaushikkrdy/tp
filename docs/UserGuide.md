@@ -98,10 +98,6 @@ note of so that you may better understand our feature descriptions.
 * Items with `...` after them can be repeated multiple times, including zero times.<br>
   e.g. `delete INDEX...` can be used as `delete 1` (i.e. `INDEX` repeated 0 times), `delete 1 2`, `delete 2 4 3` etc.
 
---------------------------------------------------------------------------------------------------------------------
-
-<div style="page-break-after: always"></div>
-
 ## Quick start
 [Table of contents](#table-of-contents)
 
@@ -187,9 +183,6 @@ Scroll down to the bottom and click on `recruitIn.jar`.
 
 7. This marks the end of the Quick Start guide. If you would like to know more about using RecruitIn's features,
    you can refer to the [Features](#features) below for details of available commands.
-
-
---------------------------------------------------------------------------------------------------------------------
 
 <div style="page-break-after: always"></div>
 
