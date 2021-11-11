@@ -229,11 +229,11 @@ Scroll down to the bottom and click on `recruitIn.jar`.
 
 </div>
 
-<div markdown="block" class="alert alert-danger">
+<br>
+<br>
+<br>
 
-<br>
-<br>
-<br>
+<div markdown="block" class="alert alert-danger">
 
 **:exclamation: Caution:**<br>
 
