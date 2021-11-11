@@ -67,7 +67,13 @@ This guide aims to help users get familiar with using RecruitIn's features.
 * If you still wish to skip directly to the feature descriptions, or if you need a refresher on the important terminologies and text formatting used
   in this user guide, you may visit [Basic Command Format](#basic-command-format).
 
-<div style="page-break-after: always;"></div>
+</div>
+
+<br>
+<br>
+<br>
+<br>
+
 
 ### Glossary
 [Table of contents](#table-of-contents)
@@ -78,8 +84,6 @@ This guide aims to help users get familiar with using RecruitIn's features.
 | **Command** | **Commands** are user text inputs that executes certain features of RecruitIn. |
 | **Prefix** | A **Prefix** is a fixed text input that indicates an applicant's detail.<br><br>For instance, `n/` is a Prefix that indicates an applicant's name.<br><br>It is used in commands to differentiate user inputs for different applicant details. |
 | **Parameter** | A **Parameter** is a user text input that usually follows after a **Prefix**.<br><br>For instance, in `n/John`, `John` is a **Parameter** of **Prefix** `n/`.<br><br>In some cases, it does not have to follow a **Prefix**.<br><br>For instance, in `delete 1`, `1` is a **Parameter** of the `delete` command. |
-
-<div style="page-break-after: always;"></div>
 
 ### Basic Command Format
 [Table of contents](#table-of-contents)
@@ -97,7 +101,6 @@ note of so that you may better understand our feature descriptions.
   e.g. `delete INDEX...` can be used as `delete 1` (i.e. `INDEX` repeated 0 times), `delete 1 2`, `delete 2 4 3` etc.
 
 --------------------------------------------------------------------------------------------------------------------
-<div style="page-break-after: always;"></div>
 
 ## Quick start
 [Table of contents](#table-of-contents)
@@ -187,7 +190,6 @@ Scroll down to the bottom and click on `recruitIn.jar`.
 
 
 --------------------------------------------------------------------------------------------------------------------
-<div style="page-break-after: always;"></div>
 
 ## Features
 [Table of contents](#table-of-contents)
@@ -229,8 +231,6 @@ Scroll down to the bottom and click on `recruitIn.jar`.
 
 </div>
 
-<div style="page-break-after: always;"></div>
-
 <div markdown="block" class="alert alert-danger">
 
 **:exclamation: Caution:**<br>
@@ -238,7 +238,6 @@ Scroll down to the bottom and click on `recruitIn.jar`.
 * You are advised to not edit the `preferences.json` file unless you have a clear purpose.
 
 </div>
-
 
 ### Viewing help : `help`
 [Table of contents](#table-of-contents)
