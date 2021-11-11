@@ -506,9 +506,7 @@ Before: ![ShowBefore](images/ug-features/ShowBefore.png)
 After: ![ShowAfter](images/ug-features/ShowAfter.png)
 
 <div style="page-break-after: always"></div>
-<br>
-<br>
-<br>
+
 ### Marking an applicant : `mark`
 [Table of contents](#table-of-contents)
 
@@ -607,6 +605,8 @@ Alternatively, you can also click on the 'File' button on the upper left of the 
 
 Whenever you use any command which edits, updates or adds data, RecruitIn automatically saves the data.
 You do not need to manually save data with any command. The saved data also automatically loads when the application starts.
+
+<div style="page-break-after: always"></div>
 
 ### Editing the data file
 [Table of contents](#table-of-contents)
