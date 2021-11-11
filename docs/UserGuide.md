@@ -694,6 +694,7 @@ It is advised that you be careful when handling the data file directly!
 * ##### EXPECTED_SALARY `s/`
     * An EXPECTED_SALARY parameter should only be **non-negative whole numbers**.
         * An EXPECTED_SALARY can range from 0 to 2^(31) - 1 inclusive.
+    <div style="page-break-after: always"></div>
     * For example:
         * EXPECTED_SALARY parameters such as `0` and `3500` are acceptable.
         * EXPECTED_SALARY parameters such as `-600` and `~350` are not acceptable.
@@ -763,6 +764,7 @@ For example, if your input is `find n/Alex Bernice`, `Alex` and `Bernice` are yo
 * ##### EMAIL_ADDRESS `e/`
     * An EMAIL_ADDRESS parameter matches with an existing stored ***Email Address*** only if **at least 1** keyword is equal to the ***Email Address***.
     * All the keywords that you provide in your EMAIL_ADDRESS parameter must comply with the parameter specifications for add given [**here**](#emailaddress-e).
+    <div style="page-break-after: always"></div>
     * For example:
         * A `alexyeoh@example.com` parameter can match with ***Email Address***es such as `alexyeoh@example.com`.
         * A `alexyeoh@example.com marysue@gmail.com` parameter can match with ***Email Address***es such as `alexyeoh@example.com`
